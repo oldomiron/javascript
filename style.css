@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	height: 100px;
+	background-color:#feb81c ;
+}
+.header__logo_div{
+	width: 150px;
+}
+.header__logo{
+	width: 100%;
+}
+.header__content{
+	display: flex;
+	justify-content: space-between;
+}
+.header__content_r{
+	color: red;
+	font-size: 35px;
+	margin-top: 25px;
+	font-family: Roboto;
+}
+.header__content_w{
+	color: white;
+	font-size: 30px;
+	margin-top: 25px;
+	padding-right: 30px;
+	font-family: Roboto;
+}
+.leftheader{
+	float: left;
+	height: 1300px;
+	width: 20%;
+	background-color: #d4ba4845;
+	padding-top: 20px;
+	padding-left: 20px;
+	margin-right: 5%;
+}
+.h1{
+	font-size:40px; 
+}
+
+.themes{
+	margin-top: 20px;
+	font-size: 25px;
+}
+.content{
+	width: 75%;
+}
+.content__text{
+	margin-left: 10%;
+}
+.text__header{
+	font-family: Roboto;
+	font-size: 40px;
+	margin-top: 30px;
+}
+.text{
+	font-size: 25px;
+	font-family: Roboto;
+	margin-top: 15px;
+}
+.footer__content_l{
+	float: left;
+}
+.footer__content_r{
+	float: right;
+}
+.GitHub_logo1{
+	height: 25px;
+	width: 25px;
+}
+.book{
+	height: 25px;
+	width: 25px;
+}
+footer{
+	margin-top: 50px;
+}
